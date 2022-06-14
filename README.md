@@ -1,7 +1,11 @@
-###About Me
+# About Me:
+
 I am 14 y/o person and I like Codeing. Am good in Python, HTML, Js, CSS. 
 
-###Currently
+Sometimes I play games such as Sonic, Touhou and so on.....
+
+# Currently
+
 doing Sonic Bot using discord.py
 
 
