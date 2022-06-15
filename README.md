@@ -6,6 +6,6 @@ Sometimes I play games such as Sonic, Touhou and so on.....
 
 # Currently
 
-doing Sonic Bot using discord.py
+doing Sonic Bot using discord.js
 
 
