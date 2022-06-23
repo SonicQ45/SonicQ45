@@ -7,7 +7,7 @@ Sometimes I play games such as Sonic, Touhou and so on.....
 # Currently
 
 1) doing Sonic Bot using discord.js
-2) algebraic calculator using python 
+
 
 
 
